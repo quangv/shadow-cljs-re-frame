@@ -1,3 +1,5 @@
+taken from https://github.com/thheller/shadow-cljs-examples
+
 # Starter Template
 
 Simple Shadow CLJS Template Project
